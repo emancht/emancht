@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">I'm Eman Chakma from Khagrachar, Chattgram Hill Tracts, Bangladesh.<br><br>- 🔭 I’m working as a junior MERN Stack Developer.<br>- 📚 I'm currently learning advanced web development techniques.<br>- ⚡ In my free time, I enjoy coding, reading tech blogs, and exploring new technologies.</p>
+<p align="left">I'm Eman Chakma from Khagrachari, Chattogram Hill Tracts, Bangladesh.<br><br>- 🔭 I’m working as a junior MERN Stack Developer.<br>- 📚 I'm currently learning advanced web development techniques.<br>- ⚡ In my free time, I enjoy coding, reading tech blogs, and exploring new technologies.</p>
 
 ###
 
