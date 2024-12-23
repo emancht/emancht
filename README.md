@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./assets/banner.png" />
+  <img height="200" src="./assets/banner.png" />
 </div>
 
 ###
@@ -29,10 +29,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&" />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
@@ -52,6 +48,17 @@
 ###
 
 <div align="left">
+
+<!-- Add HTML5, CSS, and Sass logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
@@ -62,9 +69,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
+ 
+  
 </div>
 
 ###
@@ -77,4 +83,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=amitbd599&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=emancht&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.laobi.icu/badge?page_id=emancht.emancht&)](https://visitcount.itsvg.in)
