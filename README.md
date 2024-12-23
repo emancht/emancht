@@ -37,7 +37,7 @@
   🙏 I'm Eman Chakma from Khagrachari, Chattogram Hill Tracts, Bangladesh.<br><br>
   - 🔭 I’m currently working as a Junior MERN Stack Developer.<br>
   - 📚 I'm learning advanced web development techniques to improve my skills in both front-end and back-end development.<br>
-  - ⚡ In my free time, I enjoy reading tech blogs, exploring new technologies, and contributing to open-source projects. My goal is to constantly improve my craft and build meaningful applications that can make a difference.<br>
+  - ☕ In my free time, I enjoy reading tech blogs, exploring new technologies, and contributing to open-source projects. My goal is to constantly improve my craft and build meaningful applications that can make a difference.<br>
   - 🚀 Feel free to connect with me to discuss web development, new tech trends, or potential collaborations!
 </p>
 
@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
 </div>
 
-<h4 align="left">Currently Learning:</h4>
+<h2 align="left"> 🌟 Currently Learning:</h2>
 <ul>
   <li>TypeScript</li>
   <li>GraphQL</li>
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
+<h2 align="left">🔥 GitHub Stats</h2>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h3 align="left">🚀 Personal Projects</h3>
+<h2 align="left">🖥️ Personal Projects</h2>
 
 <p align="left">
   Here are some of my key projects:
@@ -100,7 +100,7 @@
 
 ###
 
-<h3 align="center">🚀 Let's Connect!</h3>
+<h3 align="center">🤝 Let's Connect!</h3>
 
 <p align="center">
   I’m always open to learning and collaborating on interesting projects! Feel free to reach out via email or any of the links above. Let’s build something amazing together.
